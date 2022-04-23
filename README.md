@@ -1,4 +1,4 @@
-#This is a Nelson Mandela Tribute page.
+This is a Nelson Mandela Tribute page.
 
 It makes up the first part of my coding portfolio.
 
